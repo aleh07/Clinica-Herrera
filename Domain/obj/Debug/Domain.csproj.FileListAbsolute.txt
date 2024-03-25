@@ -1,0 +1,9 @@
+C:\Users\aleh0\Downloads\CLINICA_HERRERA\CLINICA_HERRERA\Domain\bin\Debug\Domain.dll
+C:\Users\aleh0\Downloads\CLINICA_HERRERA\CLINICA_HERRERA\Domain\bin\Debug\Domain.pdb
+C:\Users\aleh0\Downloads\CLINICA_HERRERA\CLINICA_HERRERA\Domain\obj\Debug\Domain.dll
+C:\Users\aleh0\Downloads\CLINICA_HERRERA\CLINICA_HERRERA\Domain\obj\Debug\Domain.pdb
+C:\Users\aleh0\Downloads\CLINICA_HERRERA\CLINICA_HERRERA\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 CURSADA ANTIGUA\CLINICA_HERRERA\CLINICA_HERRERA\CLINICA_HERRERA\CLINICA_HERRERA\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 CURSADA ANTIGUA\CLINICA_HERRERA\CLINICA_HERRERA\CLINICA_HERRERA\CLINICA_HERRERA\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 CURSADA ANTIGUA\CLINICA_HERRERA\CLINICA_HERRERA\CLINICA_HERRERA\CLINICA_HERRERA\Domain\obj\Debug\Domain.dll
+C:\Users\aleh0\OneDrive\Imágenes\Documentos\PROG 3 CURSADA ANTIGUA\CLINICA_HERRERA\CLINICA_HERRERA\CLINICA_HERRERA\CLINICA_HERRERA\Domain\obj\Debug\Domain.pdb

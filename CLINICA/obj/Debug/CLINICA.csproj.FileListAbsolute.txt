@@ -1,0 +1,38 @@
+c:\users\paola\documents\visual studio 2015\Projects\CLINICA\CLINICA\bin\Debug\CLINICA.exe.config
+c:\users\paola\documents\visual studio 2015\Projects\CLINICA\CLINICA\bin\Debug\CLINICA.exe
+c:\users\paola\documents\visual studio 2015\Projects\CLINICA\CLINICA\bin\Debug\CLINICA.pdb
+c:\users\paola\documents\visual studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.csprojResolveAssemblyReference.cache
+c:\users\paola\documents\visual studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.CLINICA.resources
+c:\users\paola\documents\visual studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Properties.Resources.resources
+c:\users\paola\documents\visual studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Turnos.resources
+c:\users\paola\documents\visual studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.csproj.GenerateResource.Cache
+c:\users\paola\documents\visual studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.exe
+c:\users\paola\documents\visual studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.pdb
+C:\Users\Paola\Documents\Visual Studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Alta_Medicos.resources
+C:\Users\Paola\Documents\Visual Studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Alta_Pacientes.resources
+C:\Users\Paola\Documents\Visual Studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Alta_Turnos.resources
+C:\Users\Paola\Documents\Visual Studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Medicos.resources
+C:\Users\Paola\Documents\Visual Studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Pacientes.resources
+C:\Users\Paola\Documents\Visual Studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Ver_Medicos.resources
+C:\Users\Paola\Documents\Visual Studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Ver_Pacientes.resources
+C:\Users\Paola\Documents\Visual Studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Ver_Turnos.resources
+C:\Users\Paola\Documents\Visual Studio 2015\Projects\CLINICA\CLINICA\obj\Debug\CLINICA.Pantalla_Principal.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\bin\Debug\CLINICA.exe.config
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.exe
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.pdb
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\bin\Debug\CLINICA.exe
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\bin\Debug\CLINICA.pdb
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.csprojResolveAssemblyReference.cache
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Alta_Medicos.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Alta_Pacientes.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Alta_Turnos.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.CLINICA.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Medicos.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Pacientes.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Pantalla_Principal.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Properties.Resources.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Turnos.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Ver_Medicos.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Ver_Pacientes.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.Ver_Turnos.resources
+C:\Users\Paola\Desktop\CLINICA_HERRERA\CLINICA\obj\Debug\CLINICA.csproj.GenerateResource.Cache
